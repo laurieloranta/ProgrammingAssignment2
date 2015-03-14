@@ -2,7 +2,7 @@
 ##
 ## 1. makeCacheMatrix creates a special "matrix" object that can cache its 
 ## inverse.This function returns a list of closure functions that are able 
-## to (1) get and (2) set the matrix itseld and (3) get and (4) set the inverse 
+## to (1) get and (2) set the matrix itself and (3) get and (4) set the inverse 
 ## of that matrix in the cache. 
 ##
 ## 2. The cacheSolve computes the inverse of the special "matrix" returned by 
